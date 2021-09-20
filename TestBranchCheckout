@@ -1,4 +1,9 @@
 
 checkout branch
+<<<<<<< HEAD
 Unable to initialize device PRN
 congtu
+=======
+
+"冲突"
+>>>>>>> f1d7485eaacc5793fc31d94488b500fa697f5a87
